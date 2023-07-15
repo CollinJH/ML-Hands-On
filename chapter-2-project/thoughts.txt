@@ -1,0 +1,15 @@
+Predicting Housing Prices
+
+This a typical supervised learning task, the model can be trained with labeled examples
+
+each instance comes with an expected output
+
+this is a typical regression task
+also univariate - predicting a single value
+multiple values would be multivariate
+
+no need to adjust to changing data rapidly and the data is small
+so batch learning will work fine
+
+
+
